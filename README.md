@@ -17,9 +17,10 @@
 
 # Usage :
 
-##### sudo anonsurf start
-##### sudo anonsurf myip
-##### sudo anonsurf stop
+
+		1. sudo anonsurf start
+		2. sudo anonsurf myip
+            3. sudo anonsurf stop
 
 ![image](https://user-images.githubusercontent.com/66146701/124959884-30cb1180-dfc8-11eb-9285-3c3d5cad9e19.png)
 
